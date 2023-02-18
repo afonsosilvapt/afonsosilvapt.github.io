@@ -1,3 +1,3 @@
-# Jekyll Demo Repo
+# Ricardo Caiola
 
-This practice repo hosts the website template created using Jekyll to be used in association with [CFDE Jekyll Tutorial](https://cfde-training.readthedocs.io/en/latest/General-Tutorials/Jekyll_Tutorial/)
+Painting and art website
