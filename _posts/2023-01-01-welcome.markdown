@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Quadro 1"
+title:  "Quadro Palmela"
 date:   2023-01-01 10:00:00 -0000
 categories: news
 ---
 
-Quadro 1 - Text
+Quadro 1 - Palmela
 
 ![Quadro 1](quadro1.png)
 

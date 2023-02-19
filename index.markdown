@@ -10,9 +10,14 @@ layout: home
 Novidades
 
 
-| Q1                              | Q2                              | Q3                              |
-|---------------------------------|---------------------------------|---------------------------------|
-| ![Quadro](assets/img/frame.png) | ![Quadro](assets/img/frame.png) | ![Quadro](assets/img/frame.png) |
+| Quadro 1                       | Q2                              | Q3                              |
+|--------------------------------|---------------------------------|---------------------------------|
+| ![Quadro](assets/img/frame.png)| ![Quadro](assets/img/frame.png) | ![Quadro](assets/img/frame.png) |
+| ![Quadro](assets/img/frame.png)| ![Quadro](assets/img/frame.png) | ![Quadro](assets/img/frame.png) |
+
+| Quadro 4                       |
+|--------------------------------|
+|![Quadro](assets/img/test1.png) |
 
 
 See [more info >>](/more-info/)
