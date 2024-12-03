@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Azáfama Setúbal"
+date: 1993-01-01 10:00:00 -0000
+categories: paintings
+---
+
+# Azáfama Setúbal - Óleo sobre madeira - 1993
+
+![Quadro](/assets/img/anos-90/168542_122466197823583_1642710_n.jpg)
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+
+[jekyll-talk]: https://talk.jekyllrb.com/

@@ -7,17 +7,12 @@
 layout: home
 ---
 
-Novidades
+| Paintings                                                                                                      | 
+|----------------------------------------------------------------------------------------------------------------|
+| ![Quadro](assets/img/anos-90/168542_122466197823583_1642710_n.jpg) Azáfama Setúbal - Óleo sobre madeira - 1993 |
 
+## Painting categories
 
-| Quadro 1                       | Q2                              | Q3                              |
-|--------------------------------|---------------------------------|---------------------------------|
-| ![Quadro](assets/img/frame.png)| ![Quadro](assets/img/frame.png) | ![Quadro](assets/img/frame.png) |
-| ![Quadro](assets/img/frame.png)| ![Quadro](assets/img/frame.png) | ![Quadro](assets/img/frame.png) |
+Painting [90s >>](/90s/)
 
-| Quadro 4                       |
-|--------------------------------|
-|![Quadro](assets/img/test1.png) |
-
-
-See [more info >>](/more-info/)
+## Paintings
