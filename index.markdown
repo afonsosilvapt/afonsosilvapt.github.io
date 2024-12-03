@@ -11,7 +11,7 @@ layout: home
 |----------------------------------------------------------------------------------------------------------------|
 | ![Quadro](assets/img/anos-90/168542_122466197823583_1642710_n.jpg) Azáfama Setúbal - Óleo sobre madeira - 1993 |
 
-## Painting categories
+## Categories
 
 Painting [90s >>](/90s/)
 
