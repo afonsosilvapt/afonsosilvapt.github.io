@@ -1,0 +1,19 @@
+---
+layout: page
+title: Paintings 80s
+permalink: /80s/
+---
+
+Painter Ricardo Caiola captured the essence of the 1980s through vibrant colors and dynamic compositions, reflecting the
+era's cultural shifts and artistic experimentation with bold, expressive techniques.
+
+| Anos 80                                                                                     | 
+|---------------------------------------------------------------------------------------------|
+| ![Quadro](assets/img/anos-80/1989-20210301_171835.jpg) Por do Sol - Óleo sobre Platex- 1989 |
+| ![Quadro](assets/img/anos-80/1989-0210301_171234.jpg) Primavera - Óleo sobre Platex - 1989  |
+                                                                                                                                                                                                                                                                                                                                                  |
+
+You can find more about me:1989 - 20210301_171835
+[Ricardo Caiola][domain]
+
+[domain]: https://www.ricardocaiola.com
