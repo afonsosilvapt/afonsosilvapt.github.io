@@ -4,16 +4,15 @@ title: Paintings 80s
 permalink: /80s/
 ---
 
-Painter Ricardo Caiola captured the essence of the 1980s through vibrant colors and dynamic compositions, reflecting the
-era's cultural shifts and artistic experimentation with bold, expressive techniques.
+Ricardo Caiola began his painting career in 1989, stepping into the art world with a deep sense of creativity and a passion for abstract and surrealist expressions. Early in his career, Caiola’s works reflected a keen interest in exploring the interconnectedness between human emotions and natural landscapes, often blending figurative elements with dreamlike, flowing forms. His style, marked by the use of soft lines and a harmonious color palette, suggests a profound meditation on the fluidity of time, the dynamics of nature, and the introspective qualities of the human experience.
+During these formative years, Ricardo experimented with various techniques and themes, drawing inspiration from the natural world and the abstract emotional landscapes of the human mind. The late 1980s and early 1990s were a period of creative exploration, with Caiola producing works that set the foundation for his evolving artistic identity. His paintings from this time showcase a balance of spontaneity and control, inviting viewers to immerse themselves in layered meanings and symbolic interpretations.
 
-| Anos 80                                                                                     | 
-|---------------------------------------------------------------------------------------------|
-| ![Quadro](assets/img/anos-80/1989-20210301_171835.jpg) Por do Sol - Óleo sobre Platex- 1989 |
-| ![Quadro](assets/img/anos-80/1989-0210301_171234.jpg) Primavera - Óleo sobre Platex - 1989  |
+| Anos 80                                                                                      | 
+|----------------------------------------------------------------------------------------------|
+| ![Quadro](assets/img/anos-80/1989-20210301_171835.jpg) Por do Sol - Óleo sobre Platex - 1989 |
+| ![Quadro](assets/img/anos-80/1989-0210301_171234.jpg) Primavera - Óleo sobre Platex - 1989   |
                                                                                                                                                                                                                                                                                                                                                   |
 
-You can find more about me:1989 - 20210301_171835
-[Ricardo Caiola][domain]
+You can find more about me [Ricardo Caiola][domain]
 
 [domain]: https://www.ricardocaiola.com
