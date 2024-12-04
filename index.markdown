@@ -13,6 +13,7 @@ layout: home
 
 ## Categories
 
+Painting [80s >>](/80s/)
 Painting [90s >>](/90s/)
 
 ## Paintings
